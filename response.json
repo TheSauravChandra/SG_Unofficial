@@ -1,6 +1,24 @@
 {
   "latest": 1,
   "downloadUrl": "git -> QR",
+  "bg": [
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-896.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-760.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-114.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-200.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-220.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-328.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-342.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-383.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-492.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-661.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-673.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-760.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-776.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-956%20(1).jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-956.jpeg",
+    "https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/main/wallpaper-980.jpeg"
+  ],
   "videos":[
     {
       "t": "1",
