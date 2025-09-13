@@ -1,3 +1,5 @@
-https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/refs/heads/main/cache/obsolete/
+https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/refs/heads/main/cache/obsolete/group/
 
-<img src="img.jpg" alt="Girl in a jacket" width="500" height="600">
+https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/refs/heads/main/cache/obsolete/group/image.jpg
+
+<img src="https://raw.githubusercontent.com/TheSauravChandra/SG_Unofficial/refs/heads/main/cache/obsolete/group/ai_math_wiz_over_iq_gold_medal.jpg" alt="Girl in a jacket" width="500" height="600">
