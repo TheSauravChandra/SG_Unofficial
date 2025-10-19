@@ -1,0 +1,108 @@
+{
+  "states": [
+    {
+      "id": "s1",
+      "title": "The Beginning",
+      "imgUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "color": "#2c3e50",
+      "menu": [
+        {
+          "id": "T1",
+          "label": "Enter the Forest",
+          "goTo": "s2"
+        },
+        {
+          "id": "T2",
+          "label": "Visit the Village",
+          "goTo": "s3"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Deep in the Forest",
+      "imgUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800",
+      "color": "#27ae60",
+      "menu": [
+        {
+          "id": "T3",
+          "label": "Follow the Stream",
+          "goTo": "s4"
+        },
+        {
+          "id": "T4",
+          "label": "Return to Beginning",
+          "goTo": "s1"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "The Peaceful Village",
+      "imgUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "color": "#e67e22",
+      "menu": [
+        {
+          "id": "T5",
+          "label": "Talk to Elder",
+          "goTo": "s5"
+        },
+        {
+          "id": "T6",
+          "label": "Return to Beginning",
+          "goTo": "s1"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "The Hidden Waterfall",
+      "imgUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800",
+      "color": "#3498db",
+      "menu": [
+        {
+          "id": "T7",
+          "label": "Dive into the Pool",
+          "goTo": "s6"
+        },
+        {
+          "id": "T8",
+          "label": "Back to Forest",
+          "goTo": "s2"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Elder's Wisdom",
+      "imgUrl": "https://images.unsplash.com/photo-1476611338391-6f395a0ebc7b?w=800",
+      "color": "#8e44ad",
+      "menu": [
+        {
+          "id": "T9",
+          "label": "Accept the Quest",
+          "goTo": "s6"
+        },
+        {
+          "id": "T10",
+          "label": "Return to Village",
+          "goTo": "s3"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "The Journey Continues...",
+      "imgUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "color": "#c0392b",
+      "menu": [
+        {
+          "id": "T11",
+          "label": "Start Over",
+          "goTo": "s1"
+        }
+      ]
+    }
+  ],
+  "initState": "s1"
+}
